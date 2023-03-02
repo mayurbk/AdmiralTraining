@@ -1,0 +1,5 @@
+.venv/
+work/
+csvs/
+log.txt
+git-instructions.txt
